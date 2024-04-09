@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "555125784173",
+    "firebase_url": "https://simplyfi-77a64-default-rtdb.firebaseio.com",
+    "project_id": "simplyfi-77a64",
+    "storage_bucket": "simplyfi-77a64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555125784173:android:a5b1f887b3efe503900964",
+        "android_client_info": {
+          "package_name": "com.factory.simplyfi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555125784173-hh2p9a2vsi197qnij4e157po5tp5qn1p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.factory.simplyfi",
+            "certificate_hash": "0a33868baf49ef8f4efe350c875c96e7d8f37ea7"
+          }
+        },
+        {
+          "client_id": "555125784173-a6lp2l9801imoin15cml7098lvo9oiun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0HmErEoLx6Nr-QXLuQjZq_BngpO-YCiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555125784173-a6lp2l9801imoin15cml7098lvo9oiun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
